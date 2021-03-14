@@ -3,8 +3,8 @@
 #include <chrono>
 
 /**
-    Abgabe Blatt 10 Cache Messen
-    Niklas Rausch, Anne Schulte-Kroll und Wolf Weber
+    Cache Messen
+
 **/
 
 int main(int argc, char** argv) {
